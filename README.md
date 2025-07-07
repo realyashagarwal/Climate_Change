@@ -162,7 +162,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Yash Agarwal**
 - GitHub: [@realyashagarwal](https://github.com/realyashagarwal)
-- LinkedIn: [Connect with me](https://linkedin.com/in/realyashagarwal)
+- LinkedIn: [Connect with me](www.linkedin.com/in/yashagarwal2004)
 
 ## 🙏 Acknowledgments
 
